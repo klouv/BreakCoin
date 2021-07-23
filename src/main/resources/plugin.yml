@@ -1,0 +1,6 @@
+  name: "BreakCoin"
+  main: Main
+  version: 1.0
+  commands:
+    coinmenu: {}
+    updatecoinmenu: {}
